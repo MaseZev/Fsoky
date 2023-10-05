@@ -1,4 +1,4 @@
-# 🥑 Fsoky
+# 🥑 MaseZev
 
 **`Контент-мейкер`**
 
@@ -12,9 +12,9 @@ Hello, my dear friends! Меня зовут Данииииил, мне 19 лет
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCeiC2G8vcz6tBmvVo8ydMgQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Fsoky?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MaseZev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fsoky?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MaseZev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -49,6 +49,6 @@ Hello, my dear friends! Меня зовут Данииииил, мне 19 лет
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsoky&show_icons=true&theme=dracula)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaseZev&show_icons=true&theme=dracula)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5) -->
